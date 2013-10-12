@@ -1,0 +1,2 @@
+Esto es para aprender a utilizar git
+lo que no se es como subir un proyecto
